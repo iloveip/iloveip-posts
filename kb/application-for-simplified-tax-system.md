@@ -10,7 +10,7 @@ order: 1
 
 **Новое**! Вы можете бесплатно сформировать заявление о&nbsp;регистрации ИП и&nbsp;уведомление о&nbsp;переходе на&nbsp;УСН на&nbsp;[нашем сайте](/ip/).
 
-<Alert message={<DownloadLink link={url: '', name: 'Уведомление о&nbsp;переходе на&nbsp;УСН'}/>} type="info" />
+<DownloadAlert link={url: '', name: 'Уведомление о&nbsp;переходе на&nbsp;УСН', type: 'PDF'} />
 
 ## Какой вид УСН выбрать
 
