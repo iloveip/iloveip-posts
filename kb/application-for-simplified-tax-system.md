@@ -12,11 +12,11 @@ order: 1
   Вы можете бесплатно сформировать заявление о&nbsp;регистрации ИП и&nbsp;уведомление о&nbsp;переходе на&nbsp;УСН на&nbsp;<Link to="/ip/">нашем сайте</Link>
 </Blockquote>
 
-<DownloadAlert link={url: '/', name: 'Уведомление о&nbsp;переходе на&nbsp;УСН', type: 'PDF'} />
+<DownloadAlert link={{url: '', name: 'Уведомление о&nbsp;переходе на&nbsp;УСН', type: 'PDF'}} />
 
 ## Какой вид УСН выбрать
 
-УСН доходы минус расходы выгодно применять, если у&nbsp;вас есть крупные расходы, перечисленные в&nbsp;Налоговом кодексе <ExternalLink link={ url: 'http://www.consultant.ru/cons/cgi/online.cgi?from=191799-16245&rnd=1E424537944456E8F9509ECB36F092DF&req=doc&base=LAW&n=353136&REFDOC=191799&REFBASE=LAW#2v2lzpdvlcg', name: 'ст. 346.16 НК РФ', type: external} /> (*например, на&nbsp;закупку товара, аренду помещений и&nbsp;др.*), и&nbsp;они могут быть документально подтверждены.
+УСН доходы минус расходы выгодно применять, если у&nbsp;вас есть крупные расходы, перечисленные в&nbsp;Налоговом кодексе <ExternalLink link={{url: 'http://www.consultant.ru/cons/cgi/online.cgi?from=191799-16245&rnd=1E424537944456E8F9509ECB36F092DF&req=doc&base=LAW&n=353136&REFDOC=191799&REFBASE=LAW#2v2lzpdvlcg', name: 'ст. 346.16 НК РФ', type: external}} /> (*например, на&nbsp;закупку товара, аренду помещений и&nbsp;др.*), и&nbsp;они могут быть документально подтверждены.
 
 Если таких расходов нет или подтвердить&nbsp;их сложно, то&nbsp;лучше применять УСН доходы.
 

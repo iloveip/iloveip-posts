@@ -8,6 +8,6 @@ order: 3
 
 При&nbsp;регистрации ИП необходимо указать коды ОКВЭД для видов деятельности, которыми вы&nbsp;планируете заниматься. Один код ОКВЭД нужно выбрать в&nbsp;качестве основного, все остальные будут дополнительными.
 
-Код ОКВЭД должен состоять минимум из&nbsp;четырёх цифр. Коды указываются по&nbsp;классификатору <ExternalLink link={ url: 'http://www.consultant.ru/cons/cgi/online.cgi?from=322332-6&rnd=167CCDA7D4DB44C6FF9C59D3E693D2DC&req=doc&base=LAW&n=350817&REFDOC=322332&REFBASE=LAW#26hdvhlw7n8', name: 'ОКВЭД2', type: 'external' } />.
+Код ОКВЭД должен состоять минимум из&nbsp;четырёх цифр. Коды указываются по&nbsp;классификатору <ExternalLink link={{ url: 'http://www.consultant.ru/cons/cgi/online.cgi?from=322332-6&rnd=167CCDA7D4DB44C6FF9C59D3E693D2DC&req=doc&base=LAW&n=350817&REFDOC=322332&REFBASE=LAW#26hdvhlw7n8', name: 'ОКВЭД2', type: 'external' }} />.
 
 ## Популярные коды ОКВЭД

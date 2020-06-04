@@ -12,7 +12,7 @@ order: 5
   Вы можете бесплатно сформировать заявление о&nbsp;регистрации ИП и&nbsp;уведомление о&nbsp;переходе на&nbsp;УСН на&nbsp;<Link to="/ip/">нашем сайте</Link>
 </Blockquote>
 
-<DownloadAlert link={url: '/', name: 'Заявление о&nbsp;регистрации&nbsp;ИП', type: 'PDF'} />
+<DownloadAlert link={{url: '', name: 'Заявление о&nbsp;регистрации&nbsp;ИП', type: 'PDF'}} />
 
 ## Как заполнить заявление о&nbsp;регистрации ИП
 
